@@ -26,6 +26,13 @@ flutter pub get
 flutter run
 ```
 
+Platform-specific targets (web + macOS scaffolds included):
+
+```bash
+flutter run -d chrome
+flutter run -d macos
+```
+
 To analyze:
 
 ```bash
