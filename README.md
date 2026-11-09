@@ -13,7 +13,7 @@ Editing a weekday template updates that weekday for **all upcoming weeks**, unle
 
 ## Prerequisites
 
-- Flutter SDK 3.13+ (`flutter doctor`)
+- Flutter SDK 3.44+ / Dart 3.12+ (`flutter doctor`)
 - Android Studio / Xcode for device or emulator runs
 - (Optional for live Sheets) Google Cloud project + OAuth client
 
